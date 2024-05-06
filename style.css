@@ -124,3 +124,13 @@ a{
     display: flex;
     justify-content: end;
 }
+
+.footer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    height: 50px;
+    font-size: 18px;
+    color: #e5e7eb
+}
